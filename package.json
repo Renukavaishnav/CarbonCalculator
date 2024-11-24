@@ -1,0 +1,24 @@
+{
+  "name": "carboncalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "og.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Renukavaishnav/CarbonCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Renukavaishnav/CarbonCalculator/issues"
+  },
+  "homepage": "https://github.com/Renukavaishnav/CarbonCalculator#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4"
+  }
+}
